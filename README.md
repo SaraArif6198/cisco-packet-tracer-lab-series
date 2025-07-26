@@ -5,16 +5,16 @@ This repository contains a series of **hands-on networking labs implemented in C
 
 ## 🧪 Lab Overview
 
-| Lab No. | Title | Key Concepts Covered |
-|--------|-------|----------------------|
-| **Lab 01** | 🧰 Basic IP Addressing & Devices | IP Addressing, Subnet Masks, Network Utilities |
-| **Lab 03** | 🧷 Network Topologies | Mesh, Star, Bus, Ring, and Tree Topologies |
-| **Lab 04** | 🌐 Client-Server & Wireless Topologies | DHCP, HTTP, Access Points, Client-Server Model |
-| **Lab 05** | 🧩 Router & Switch CLI Config | Router/Switch Hostnames, Passwords, Banner, Basic CLI |
-| **Lab 06** | 🌍 Static Routing (Multiple Networks) | Multi-Router Static Routing, IP Configuration, Topology Notes |
-| **Lab 07** | 🔗 Serial Cable Routing | DCE/DTE Setup, Serial Interfaces, Static Routing |
-| **Lab 08** | 🔄 Dynamic Routing with RIP | RIP Protocol Configuration, Dynamic Routing, PDU Simulation |
-| **Lab 09** | 📡 Dynamic Routing with EIGRP | EIGRP Setup, Manual Summarization, Default Route Propagation |
+| Lab No. | Title | Key Concepts Covered | Link |
+|--------|-------|----------------------|------|
+| **Lab 01** | 🧰 Basic IP Addressing & Devices | IP Addressing, Subnet Masks, Network Utilities | [Lab 01 🔗](https://github.com/SaraArif6198/cisco-packet-tracer-lab-series/blob/main/lab%20implementation/Lab%2001.docx) | 
+| **Lab 03** | 🧷 Network Topologies | Mesh, Star, Bus, Ring, and Tree Topologies | [Lab 03 🔗](https://github.com/SaraArif6198/cisco-packet-tracer-lab-series/tree/main/lab%20implementation/lab%2003%20(topologies)) | 
+| **Lab 04** | 🌐 Client-Server & Wireless Topologies | DHCP, HTTP, Access Points, Client-Server Model | [Lab 04 🔗](https://github.com/SaraArif6198/cisco-packet-tracer-lab-series/tree/main/lab%20implementation/lab%204%20(dynamic%20ip%20and%20access%20modifier)) | 
+| **Lab 05** | 🧩 Router & Switch CLI Config | Router/Switch Hostnames, Passwords, Banner, Basic CLI | [Lab 05 🔗](https://github.com/SaraArif6198/cisco-packet-tracer-lab-series/tree/main/lab%20implementation/lab%205%20%20(configuration%20using%20CLI)) | 
+| **Lab 06** | 🌍 Static Routing (Multiple Networks) | Multi-Router Static Routing, IP Configuration, Topology Notes | [Lab 06 🔗](https://github.com/SaraArif6198/cisco-packet-tracer-lab-series/tree/main/lab%20implementation/lab%206%20%20(static%20routing)) | 
+| **Lab 07** | 🔗 Serial Cable Routing | DCE/DTE Setup, Serial Interfaces, Static Routing | [Lab 07 🔗](https://github.com/SaraArif6198/cisco-packet-tracer-lab-series/tree/main/lab%20implementation/lab%207%20with%20serial%20cable) | 
+| **Lab 08** | 🔄 Dynamic Routing with RIP | RIP Protocol Configuration, Dynamic Routing, PDU Simulation | [Lab 08 🔗](https://github.com/SaraArif6198/cisco-packet-tracer-lab-series/tree/main/lab%20implementation/lab%2008) | 
+| **Lab 09** | 📡 Dynamic Routing with EIGRP | EIGRP Setup, Manual Summarization, Default Route Propagation | [Lab 09 🔗](https://github.com/SaraArif6198/cisco-packet-tracer-lab-series/blob/main/lab%20implementation/lab%209%20.pkt) | 
 
 
 ## 📁 Files Structure
